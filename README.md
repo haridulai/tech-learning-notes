@@ -9,6 +9,7 @@ Currently focused on:
 
 ## 📁 Folder Structure
 ## 📁 react/
-- [`core/create-root.md`](react/core/create-root.md)
+- [`scrimba`](react/scrimba/)
+- [`scrimba/createRoot.md`](react/scrimba/createRoot.md)
 - [`setup/vite.md`](react/setup/vite.md)
 - [`playground/first-component.jsx`](react/playground/first-component.jsx)
