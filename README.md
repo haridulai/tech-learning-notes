@@ -8,9 +8,7 @@ Currently focused on:
 ---
 
 ## 📁 Folder Structure
-tech-learning-notes
-├── react/
-│ ├── core/ ← Core React concepts (e.g., createRoot)
-│ ├── setup/ ← Environment setup notes (e.g., Vite)
-│ └── playground/ ← Small experiments or practice snippets
-├── README.md ← You are here
+## 📁 react/
+- [`core/create-root.md`](react/core/create-root.md)
+- [`setup/vite.md`](react/setup/vite.md)
+- [`playground/first-component.jsx`](react/playground/first-component.jsx)
